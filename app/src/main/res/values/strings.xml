@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lab5</string>
+    <string name="Twitter_Key">EqQwEhwGa4vv84CpR58E0QqO7</string>
+    <string name="Twitter_Secret">YDMtojLcFNvWQtqNahKJt7J2L1a6gvLfmDWVJMJ2mGvRo8Bram</string>
+    <string name="Oauth_Key">197424197-eVUHxeKkTF0B8jWCHHsTAskloqeGR125CdjIFV2F</string>
+    <string name="Oauth_Secret">90Hr6gQSPtZ6JqBRNKaQhvGKTnlPHlw1ajHpXAWRr2QQt</string>
 </resources>
